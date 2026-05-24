@@ -184,16 +184,6 @@ This project provides an in-depth comparative study of a Rule-Based Strategy and
 
 ---
 
-## Authors
-
-Seminar Electromobility SS 2023 — Group 8, M.Sc. Commercial Vehicle Technology, RPTU Kaiserslautern-Landau:
-
-- **Rahul Chidambaranathan** — [GitHub](https://github.com/Rahul-Chid) · [LinkedIn](https://www.linkedin.com/in/rahul-chidambaranathan-0777a41aa/)
-- Danish Shahid Pathan
-- Srinivas Shanmuga Sundaram
-
----
-
 ## License
 
 Released under the MIT License. See [`LICENSE`](LICENSE) for details.
